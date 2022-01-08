@@ -1,3 +1,4 @@
 # Website
 ## Link
-Go Website  => (http://erknsrli.epizy.com/index.html)
+A small website I made for personal development.
+
